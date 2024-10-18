@@ -418,7 +418,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rifle_Shoot_0: 171447247412759120
+      Rifle_Shoot_1: -207407222930996229
+      Rifle_Shoot_10: -3235054341174141604
+      Rifle_Shoot_11: 4563969515906837355
+      Rifle_Shoot_12: 2637729309719526357
+      Rifle_Shoot_2: 3403742594569157723
+      Rifle_Shoot_3: 8641516179405783172
+      Rifle_Shoot_4: -5554803079343280364
+      Rifle_Shoot_5: 1101800318404813455
+      Rifle_Shoot_6: 6589410990238362195
+      Rifle_Shoot_7: 2021325903184979752
+      Rifle_Shoot_8: -6359739014777053838
+      Rifle_Shoot_9: -5429500708643499397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

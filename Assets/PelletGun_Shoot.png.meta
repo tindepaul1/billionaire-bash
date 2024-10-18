@@ -298,7 +298,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PelletGun_Shoot_0: -326350897489036629
+      PelletGun_Shoot_1: -3052385541729431012
+      PelletGun_Shoot_2: -2401917455014070475
+      PelletGun_Shoot_3: 6497659808393328425
+      PelletGun_Shoot_4: -309698096802572509
+      PelletGun_Shoot_5: -2109016116057681068
+      PelletGun_Shoot_6: -812360757996337403
+      PelletGun_Shoot_7: -7485729888727637825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

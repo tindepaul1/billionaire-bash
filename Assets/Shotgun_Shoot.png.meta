@@ -370,7 +370,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shotgun_Shoot_0: 1035660084198213846
+      Shotgun_Shoot_1: 5367286833401427536
+      Shotgun_Shoot_10: -1133404668818723880
+      Shotgun_Shoot_2: -6724797320297137410
+      Shotgun_Shoot_3: 9147788628552611931
+      Shotgun_Shoot_4: -4929973434998106375
+      Shotgun_Shoot_5: 8176091010242133678
+      Shotgun_Shoot_6: 834473124913172010
+      Shotgun_Shoot_7: 5106233296042684265
+      Shotgun_Shoot_8: -5790067715801536039
+      Shotgun_Shoot_9: 2416927802119560901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

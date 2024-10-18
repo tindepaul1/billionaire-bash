@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WindyBg_0: 3261089260277237658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

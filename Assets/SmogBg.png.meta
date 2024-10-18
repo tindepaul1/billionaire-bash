@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmogBg_0: -3609518293098136588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

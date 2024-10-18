@@ -298,7 +298,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elon_Spritesheet_0: 5350968336036171140
+      Elon_Spritesheet_1: -6268950249660179271
+      Elon_Spritesheet_2: 3261107557782517196
+      Elon_Spritesheet_3: 932537197386466447
+      Elon_Spritesheet_4: -3442101577678105341
+      Elon_Spritesheet_5: 1380867150376414422
+      Elon_Spritesheet_6: 6147984267881427856
+      Elon_Spritesheet_7: -8594402057715186823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
